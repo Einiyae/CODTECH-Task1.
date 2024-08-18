@@ -31,6 +31,7 @@ Weather description
 
 **User Interaction**
 Users can enter a city name into the input field and click the "Enter" button to submit. Once submitted, the site retrieves the weather data from an external API (presumably through the script.js file) and displays the relevant information in the weather information card.
+
 ![weather forecast](https://github.com/user-attachments/assets/bd06ab8a-674c-4df8-992d-bf133c4671a3)
 
 
