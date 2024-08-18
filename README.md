@@ -2,7 +2,7 @@
 **COMPANY:** CODTECH IT SOLUTIONS
 **ID:** CT08DS6952
 **DURATION:** August to September 2024
-**MENTOR:** Neela Santhosh Kumar 
+**MENTOR:** Neela Santhosh Kumar  
 
 **PROJECT OVERVIEW**
 
